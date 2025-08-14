@@ -2,7 +2,7 @@
 
 ShoppyX is a feature-rich e-commerce platform built with React that offers a seamless shopping experience for fashion enthusiasts. With a focus on dresses and apparel, it provides intuitive product browsing, cart management, and order placement functionality in a visually appealing interface.
 
-![ShoppyX Banner](public\name.svg)
+![ShoppyX Banner](public/name.svg)
 
 ## 🌟 Key Features
 
