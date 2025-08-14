@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Denim Jacket",
+    "brand": "Outfitters",
+    "price": 2999,
+    "rating": 4,
+    "image": "/Assets/Denim-Jacket.png"
+  },
+  {
+    "id": 2,
+    "name": "Bomber Jacket",
+    "brand": "Bonanza Satrangi",
+    "price": 4499,
+    "rating": 5,
+    "image": "/Assets/Bomber-Jacket.png"
+  },
+  {
+    "id": 3,
+    "name": "Leather Jacket",
+    "brand": "J.",
+    "price": 7999,
+    "rating": 4,
+    "image": "/Assets/Leather-Jacket.png"
+  },
+  {
+    "id": 4,
+    "name": "Cotton Shirt",
+    "brand": "Gul Ahmed",
+    "price": 1999,
+    "rating": 4,
+    "image": "/Assets/Cotton-Shirt.png"
+  },
+  {
+    "id": 5,
+    "name": "Linen Shirt",
+    "brand": "Khaadi",
+    "price": 2499,
+    "rating": 3,
+    "image": "/Assets/Linen-Shirt.png"
+  },
+  {
+    "id": 6,
+    "name": "Winter Jacket",
+    "brand": "Alkaram Studio",
+    "price": 5999,
+    "rating": 5,
+    "image": "/Assets/Winter-Jacket.png"
+  },
+  {
+    "id": 7,
+    "name": "Formal Shirt",
+    "brand": "ChenOne",
+    "price": 1799,
+    "rating": 4,
+    "image": "/Assets/Formal-Shirt.png"
+  },
+  {
+    "id": 8,
+    "name": "Casual Shirt",
+    "brand": "Sapphire",
+    "price": 2299,
+    "rating": 3,
+    "image": "/Assets/Casual-Shirt.png"
+  },
+  {
+    "id": 9,
+    "name": "Suede Jacket",
+    "brand": "Limelight",
+    "price": 5499,
+    "rating": 4,
+    "image": "/Assets/Suede-Jacket.png"
+  },
+  {
+    "id": 10,
+    "name": "Checkered Shirt",
+    "brand": "Diners",
+    "price": 2099,
+    "rating": 4,
+    "image": "/Assets/Checkered-Shirt.png"
+  },
+  {
+    "id": 11,
+    "name": "Hoody",
+    "brand": "Diners",
+    "price": 2599,
+    "rating": 5,
+    "image": "/Assets/Hoody.png"
+  },
+  {
+    "id": 12,
+    "name": "Quilted Jacket",
+    "brand": "Breakout",
+    "price": 4999,
+    "rating": 4,
+    "image": "/Assets/Bomber-Jacket.png"
+  },
+  {
+    "id": 13,
+    "name": "Chambray Shirt",
+    "brand": "Ideas by Gul Ahmed",
+    "price": 2199,
+    "rating": 3,
+    "image": "/Assets/Linen-Shirt.png"
+  },
+  {
+    "id": 14,
+    "name": "Corduroy Jacket",
+    "brand": "Jazmin",
+    "price": 4299,
+    "rating": 4,
+    "image": "/Assets/Leather-Jacket.png"
+  },
+  {
+    "id": 15,
+    "name": "Oxford Shirt",
+    "brand": "Alkaram",
+    "price": 1899,
+    "rating": 4,
+    "image": "/Assets/Checkered-Shirt.png"
+  },
+  {
+    "id": 21,
+    "name": "Chambray Shirt",
+    "brand": "Khaadi",
+    "price": 2299,
+    "rating": 4,
+    "image": "/Assets/Linen-Shirt.png"
+  },
+  {
+    "id": 22,
+    "name": "Polo Shirt",
+    "brand": "Diners",
+    "price": 1799,
+    "rating": 3,
+    "image": "/Assets/Cotton-Shirt.png"
+  },
+  {
+    "id": 23,
+    "name": "Linen Shirt",
+    "brand": "Gul Ahmed",
+    "price": 2499,
+    "rating": 5,
+    "image": "/Assets/Linen-Shirt.png"
+  },
+  {
+    "id": 24,
+    "name": "Checked Shirt",
+    "brand": "ChenOne",
+    "price": 1999,
+    "rating": 4,
+    "image": "/Assets/Checkered-Shirt.png"
+  },
+  {
+    "id": 25,
+    "name": "Formal White Shirt",
+    "brand": "Sapphire",
+    "price": 1899,
+    "rating": 4,
+    "image": "/Assets/Formal-Shirt.png"
+  },
+  {
+    "id": 26,
+    "name": "Denim Shirt",
+    "brand": "Outfitters",
+    "price": 2199,
+    "rating": 3,
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 27,
+    "name": "Khaddar Shirt",
+    "brand": "Nishat Linen",
+    "price": 2599,
+    "rating": 5,
+    "image": "/Assets/Casual-Shirt.png"
+  },
+  {
+    "id": 28,
+    "name": "Striped Shirt",
+    "brand": "Ideas by Gul Ahmed",
+    "price": 2099,
+    "rating": 4,
+    "image": "/Assets/Checkered-Shirt.png"
+  },
+  {
+    "id": 29,
+    "name": "Oxford Shirt",
+    "brand": "J.",
+    "price": 2299,
+    "rating": 4,
+    "image": "/Assets/Cotton-Shirt.png"
+  },
+  {
+    "id": 30,
+    "name": "Flannel Shirt",
+    "brand": "Bonanza Satrangi",
+    "price": 2399,
+    "rating": 4,
+    "image": "/Assets/Formal-Shirt.png"
+  }
+]

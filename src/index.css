@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgb(187, 187, 187);
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #5e5e5e;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(39, 39, 39);
+}

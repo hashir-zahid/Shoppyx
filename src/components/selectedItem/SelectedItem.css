@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.item-detail-container {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem auto;
+  max-width: 1400px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.item-detail {
+  display: flex;
+  gap: 3rem;
+  width: 100%;
+  padding: 0 2rem;
+}
+
+.item-detail-image-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.item-detail-image {
+  max-height: 600px;
+  width: 38%;
+  object-fit: contain;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.356);
+}
+
+img{
+  margin-top: 5px;
+  border-radius: 10px;
+}
+
+.item-detail-info {
+  flex: 1;
+  padding: 2rem;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.253);
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  width: auto;
+}
+
+.item-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #1f1f1f;
+  margin: 0;
+}
+
+.item-price {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #fa521f;
+}
+
+.item-description {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #444;
+}
+
+.size-options {
+  display: flex;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.item-size {
+  padding: 0.8rem 1.5rem;
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  font-size: 1.1rem;
+}
+
+.item-size:hover {
+  background-color: #f0f0f0;
+}
+
+.item-size.selected {
+  background-color: #fa521f;
+  color: white;
+  border-color: #fa521f;
+}
+
+.item-btn {
+  background-color: #fa521f;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.item-btn:hover {
+  background-color: #e04a1b;
+  transform: translateY(-2px);
+}
+
+.item-btn:active {
+  transform: translateY(0);
+}
+
+@media (max-width: 768px) {
+  .item-detail {
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 0 1rem;
+  }
+  
+  .back-link {
+    margin-left: 1rem;
+  }
+  
+  .item-detail-image {
+    max-height: 400px;
+  }
+  
+  .item-detail-info {
+    padding: 1.5rem;
+  }
+  
+  .item-size {
+    font-size: 1rem;
+    padding: 0.7rem 1.2rem;
+  }
+}
