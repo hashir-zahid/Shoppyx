@@ -41,8 +41,8 @@ ShoppyX is a feature-rich e-commerce platform built with React that offers a sea
 
 ## 🖼️ Application Preview
 
-<p>
-  <img src="previews/Home.png" alt="Home Page Light" width="45%">
+<p align="center">
+  <img src="previews\Home.png" alt="Home Page Light" width="45%">
   <img src="previews/SelectedItem.png" alt="Selected Item" width="45%">
   <img src="previews/Cart.png" alt="Home Page Dark" width="45%">
   <img src="previews/Checkout.png" alt="Product Detail" width="45%">
