@@ -25,7 +25,7 @@ const Navbar = () => {
         <Link to="/cart">
           <li className={location.pathname === "/cart" ? "active" : ""}>
             <i className="bi bi-cart3"></i>
-            <span className="card-count"> 🛒({cart.length})</span>
+            <span className="card-count"> ({cart.length})</span>
           </li>
         </Link>
         <Link to="/orders">
