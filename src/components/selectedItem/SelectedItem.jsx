@@ -13,7 +13,6 @@ function SelectedItem() {
   const itemId = parseInt(params?.id);
   const item = !!itemId && getItemDetail(itemId);
   const { addItemToCartList, cart } = useContext(GlobalContext);
-  const [isAdded, setIsAdded] = useState(cart.findIndex((c) => c.id === itemId) > -1);
 
   return (
     <div className="item-detail-container">
@@ -36,10 +35,8 @@ function SelectedItem() {
           </select>
           <button
             className="item-btn"
-            disabled={isAdded}
             onClick={() => {
               addItemToCartList(item);
-              setIsAdded(true);
               navigate('/');
             }}
           >
